@@ -61,6 +61,8 @@ Testing Accuracy – 87.34%
 Training Accuracy – 92.4%
 Validation Accuracy - 82.3%
 Testing Accuracy – 83.7%
+![image](https://github.com/jahnvidave04/Sentiment-Analysis/assets/126203211/3d433df0-a4ae-4453-b664-3641303be7cd)
+
 
 ![image](https://github.com/jahnvidave04/Sentiment-Analysis/assets/126203211/3617a739-484a-4f84-a26d-81bd6c30aca9)
 
